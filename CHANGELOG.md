@@ -1,9 +1,9 @@
 # Changelog
 
-## [1.1.0] - 2024-02-19
+## [1.1.1] - 2024-02-19
 
 ### Added
-Added 2 API calls to run and close the game
+- None
 
 ### Changed
 - None
@@ -15,7 +15,7 @@ Added 2 API calls to run and close the game
 - None
 
 ### Fixed
-- None
+- API documentation generation
 
 ### Security
 - None
