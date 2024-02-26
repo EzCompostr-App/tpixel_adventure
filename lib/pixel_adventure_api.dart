@@ -1,3 +1,3 @@
-library pixel_adventure;
+library pixel_adventure_api;
 
 export 'run_pixel_adventure.dart';
